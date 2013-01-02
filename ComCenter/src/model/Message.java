@@ -4,6 +4,7 @@ import java.sql.Timestamp;
 
 public abstract class Message {
 
+	//fuck this shit
 	private String sender;
 	private String[] receiver;
 	private String userID;
